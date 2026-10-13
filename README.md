@@ -4,5 +4,6 @@ Autor: Nicol Corrales
 ## Funcionalidades
 - Suma de dos números
 - Resta de dos números
+- Multiplicacion de dos números
 ## Cómo ejecutar
 python calculadora.py

@@ -14,5 +14,10 @@ def main():
     y = float(input("Ingrese el segundo número: "))
     print(f"Suma: {sumar(x, y)}")
     print(f"Resta: {restar(x, y)}")
+    print(f"Producto: {multiplicar(x, y)}")
 if __name__ == "__main__":
     main()
+
+def multiplicar(a, b):
+    """Retorna el producto de dos números."""
+    return a * b

@@ -1,0 +1,12 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+# Entornos virtuales
+.venv/
+venv/
+# Archivos del sistema y del editor
+.DS_Store
+Thumbs.db
+.vscode/
+# Secretos (¡nunca se suben al repositorio!)
+.env

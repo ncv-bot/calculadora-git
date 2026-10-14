@@ -5,5 +5,6 @@ Autor: Nicol Corrales - Estudiante ULACIT fixed
 - Suma de dos números
 - Resta de dos números
 - Multiplicacion de dos números
+- Division de dos números
 ## Cómo ejecutar
 python calculadora.py
